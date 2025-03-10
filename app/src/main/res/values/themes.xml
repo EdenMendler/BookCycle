@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookCycle" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorAccent">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.BookCycle" parent="Base.Theme.BookCycle" />
+
+    <style name="FirebaseUI" parent="Theme.BookCycle">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@color/white</item>
+    </style>
+</resources>

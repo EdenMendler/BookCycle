@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171257788299",
+    "project_id": "bookcycle-1deb3",
+    "storage_bucket": "bookcycle-1deb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171257788299:android:4ffdc7c3a8a3229895a18e",
+        "android_client_info": {
+          "package_name": "com.example.bookcycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCPpU1tHD9l6D3pVpAsmaQ8Q_51PgncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

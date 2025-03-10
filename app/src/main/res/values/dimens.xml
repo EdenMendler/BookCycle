@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_book_item">80dp</dimen>
+    <dimen name="heigth_book_item">120dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="text_size_book">18sp</dimen>
+    <dimen name="margin_top">4dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+    <dimen name="size_delete_button">48dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_title">180dp</dimen>
+    <dimen name="text_size_title">42sp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="size_image">48dp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+</resources>
